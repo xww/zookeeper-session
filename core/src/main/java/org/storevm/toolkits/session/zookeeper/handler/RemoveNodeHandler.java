@@ -15,8 +15,8 @@ import org.storevm.toolkits.utils.SerializationUtils;
 
 /**
  * 删除节点的处理器
- * @author xiangqing.tan
- * @version $Id: RemoveNodeHandler.java, v 0.1 2012-4-9 上午10:44:39 xiangqing.tan Exp $
+ * @author hzxiongwenwu.tan
+ * @version $Id: RemoveNodeHandler.java, v 0.1 2012-4-9 上午10:44:39 hzxiongwenwu.tan Exp $
  */
 public class RemoveNodeHandler extends AbstractZookeeperHandler {
     /**

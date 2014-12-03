@@ -10,8 +10,8 @@ import org.storevm.toolkits.utils.SerializationUtils;
 
 /**
  * 超时处理器
- * @author xiangqing.tan
- * @version $Id: TimeoutHandler.java, v 0.1 2012-4-9 上午09:44:31 xiangqing.tan Exp $
+ * @author hzxiongwenwu.tan
+ * @version $Id: TimeoutHandler.java, v 0.1 2012-4-9 上午09:44:31 hzxiongwenwu.tan Exp $
  */
 public class TimeoutHandler extends GetMetadataHandler {
 

@@ -17,8 +17,8 @@ import org.storevm.toolkits.session.catalina.CatalinaDistributedSessionManager;
 
 /**
  * 用于Tomcat容器的分布式Session的过滤器实现
- * @author xiangqing.tan
- * @version $Id: CatalinaDistributedSessionFilter.java, v 0.1 2010-12-31 下午03:07:55 xiangqing.tan Exp $
+ * @author hzxiongwenwu.tan
+ * @version $Id: CatalinaDistributedSessionFilter.java, v 0.1 2010-12-31 下午03:07:55 hzxiongwenwu.tan Exp $
  */
 public class CatalinaDistributedSessionFilter extends DistributedSessionFilter {
     @Override

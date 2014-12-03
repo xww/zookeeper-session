@@ -6,8 +6,8 @@ package org.storevm.toolkits.session.zookeeper.handler;
 
 /**
  * 
- * @author xiangqing.tan
- * @version $Id: CreateGroupNodeHandler.java, v 0.1 2012-4-9 ионГ09:27:34 xiangqing.tan Exp $
+ * @author hzxiongwenwu.tan
+ * @version $Id: CreateGroupNodeHandler.java, v 0.1 2012-4-9 ионГ09:27:34 hzxiongwenwu.tan Exp $
  */
 public class CreateGroupNodeHandler extends CreateNodeHandler {
     /**

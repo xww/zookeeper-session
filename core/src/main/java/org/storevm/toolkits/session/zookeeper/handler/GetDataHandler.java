@@ -10,8 +10,8 @@ import org.storevm.toolkits.utils.SerializationUtils;
 
 /**
  * 返回指定键值节点数据的处理器
- * @author xiangqing.tan
- * @version $Id: GetDataHandler.java, v 0.1 2012-4-9 上午09:59:56 xiangqing.tan Exp $
+ * @author hzxiongwenwu.tan
+ * @version $Id: GetDataHandler.java, v 0.1 2012-4-9 上午09:59:56 hzxiongwenwu.tan Exp $
  */
 public class GetDataHandler extends AbstractZookeeperHandler {
     /** 键值名称 */

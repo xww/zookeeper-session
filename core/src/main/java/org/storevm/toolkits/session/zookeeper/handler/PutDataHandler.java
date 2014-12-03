@@ -13,8 +13,8 @@ import org.storevm.toolkits.utils.SerializationUtils;
 
 /**
  * 将数据放入节点的处理器
- * @author xiangqing.tan
- * @version $Id: PutDataHandler.java, v 0.1 2012-4-9 上午10:22:28 xiangqing.tan Exp $
+ * @author hzxiongwenwu.tan
+ * @version $Id: PutDataHandler.java, v 0.1 2012-4-9 上午10:22:28 hzxiongwenwu.tan Exp $
  */
 public class PutDataHandler extends GetDataHandler {
     /** 存放节点的数据 */

@@ -10,8 +10,8 @@ import org.apache.catalina.session.StandardSessionFacade;
 
 /**
  * Session门面，兼容Tomcat的处理方法
- * @author xiangqing.tan
- * @version $Id: CatalinaDistributedSession.java, v 0.1 2010-12-31 下午05:16:01 xiangqing.tan Exp $
+ * @author hzxiongwenwu.tan
+ * @version $Id: CatalinaDistributedSession.java, v 0.1 2010-12-31 下午05:16:01 hzxiongwenwu.tan Exp $
  */
 public class CatalinaDistributedSessionFacade extends StandardSessionFacade {
     /**

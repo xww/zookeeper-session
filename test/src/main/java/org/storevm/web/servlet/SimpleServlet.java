@@ -15,8 +15,8 @@ import javax.servlet.http.HttpSession;
 
 /**
  * ²âÊÔÓÃServlet
- * @author xiangqing.tan
- * @version $Id: SimpleServlet.java, v 0.1 2011-1-20 ÏÂÎç03:55:28 xiangqing.tan Exp $
+ * @author hzxiongwenwu.tan
+ * @version $Id: SimpleServlet.java, v 0.1 2011-1-20 ÏÂÎç03:55:28 hzxiongwenwu.tan Exp $
  */
 public class SimpleServlet extends HttpServlet {
     /** UID */

@@ -31,8 +31,8 @@ import org.storevm.toolkits.session.zookeeper.handler.RemoveNodeHandler;
 
 /**
  * Tomcat容器下的HttpSession实现
- * @author xiangqing.tan
- * @version $Id: CatalinaDistributedSession.java, v 0.1 2010-12-31 下午05:23:45 xiangqing.tan Exp $
+ * @author hzxiongwenwu.tan
+ * @version $Id: CatalinaDistributedSession.java, v 0.1 2010-12-31 下午05:23:45 hzxiongwenwu.tan Exp $
  */
 @SuppressWarnings("deprecation")
 public class CatalinaDistributedSession implements HttpSession {

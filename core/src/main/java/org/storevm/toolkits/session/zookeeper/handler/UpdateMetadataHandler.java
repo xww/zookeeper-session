@@ -10,8 +10,8 @@ import org.storevm.toolkits.utils.SerializationUtils;
 
 /**
  * 更新元数据的处理器
- * @author xiangqing.tan
- * @version $Id: UpdateMetaDataHandler.java, v 0.1 2012-4-9 上午09:31:10 xiangqing.tan Exp $
+ * @author hzxiongwenwu.tan
+ * @version $Id: UpdateMetaDataHandler.java, v 0.1 2012-4-9 上午09:31:10 hzxiongwenwu.tan Exp $
  */
 public class UpdateMetadataHandler extends GetMetadataHandler {
 

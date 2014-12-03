@@ -18,8 +18,8 @@ import org.storevm.toolkits.session.SessionManager;
 
 /**
  * HttpServletRequest的包装器实现
- * @author xiangqing.tan
- * @version $Id: RequestWrapper.java, v 0.1 2010-12-31 下午04:22:15 xiangqing.tan Exp $
+ * @author hzxiongwenwu.tan
+ * @version $Id: RequestWrapper.java, v 0.1 2010-12-31 下午04:22:15 hzxiongwenwu.tan Exp $
  */
 public class ContainerRequestWrapper extends ServletRequestWrapper implements HttpServletRequest {
     protected Logger       log = Logger.getLogger(getClass());

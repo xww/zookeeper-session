@@ -14,8 +14,8 @@ import org.storevm.toolkits.utils.SerializationUtils;
 
 /**
  * 返回所有节点Map的处理器
- * @author xiangqing.tan
- * @version $Id: GetNodesHandler.java, v 0.1 2012-4-9 上午10:52:37 xiangqing.tan Exp $
+ * @author hzxiongwenwu.tan
+ * @version $Id: GetNodesHandler.java, v 0.1 2012-4-9 上午10:52:37 hzxiongwenwu.tan Exp $
  */
 public class GetNodesHandler extends GetMetadataHandler {
 

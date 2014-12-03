@@ -9,8 +9,8 @@ import org.storevm.toolkits.utils.SerializationUtils;
 
 /**
  * 
- * @author xiangqing.tan
- * @version $Id: RemoveDataHandler.java, v 0.1 2012-4-9 ионГ10:49:17 xiangqing.tan Exp $
+ * @author hzxiongwenwu.tan
+ * @version $Id: RemoveDataHandler.java, v 0.1 2012-4-9 ионГ10:49:17 hzxiongwenwu.tan Exp $
  */
 public class RemoveDataHandler extends GetDataHandler {
 

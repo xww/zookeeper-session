@@ -20,8 +20,8 @@ import org.storevm.toolkits.session.zookeeper.handler.UpdateMetadataHandler;
 
 /**
  * Tomcat容器下的Session管理器
- * @author xiangqing.tan
- * @version $Id: CatalinaDistributedSessionManager.java, v 0.1 2010-12-31 下午05:26:13 xiangqing.tan Exp $
+ * @author hzxiongwenwu.tan
+ * @version $Id: CatalinaDistributedSessionManager.java, v 0.1 2010-12-31 下午05:26:13 hzxiongwenwu.tan Exp $
  */
 public class CatalinaDistributedSessionManager extends DefaultSessionManager {
     /**

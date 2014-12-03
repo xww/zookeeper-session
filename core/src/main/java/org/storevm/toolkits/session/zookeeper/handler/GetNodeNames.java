@@ -8,8 +8,8 @@ import org.storevm.toolkits.session.metadata.SessionMetaData;
 
 /**
  * 返回节点键值名称集合的处理器
- * @author xiangqing.tan
- * @version $Id: GetNodeNames.java, v 0.1 2012-4-9 下午12:10:56 xiangqing.tan Exp $
+ * @author hzxiongwenwu.tan
+ * @version $Id: GetNodeNames.java, v 0.1 2012-4-9 下午12:10:56 hzxiongwenwu.tan Exp $
  */
 public class GetNodeNames extends GetMetadataHandler {
 
